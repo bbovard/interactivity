@@ -1,0 +1,14 @@
+nav { width: 170px; }
+
+a.menu-btn {
+	display: inline-block;
+	border: 3px dashed rgba(226,113,8,.5);
+    background-color: #a6a;
+	padding: 5px 10px 5px 10px;
+	text-decoration: none;
+	margin: 0px 0px 5px 20px;
+	color: #fa0;
+	width: 100px;
+    transition: all 1.5s;
+			}
+a.menu-btn:hover { background-color:rgba(171,11,171,.8); border: 3px solid; border-left-width: 11px; font-size: 1.1em; }
